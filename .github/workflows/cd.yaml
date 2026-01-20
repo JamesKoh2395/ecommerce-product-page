@@ -29,4 +29,4 @@ jobs:
         with: 
           context: . 
           push: true 
-          tags: ghcr.io/${{ github.repository }}:${{ github.sha }}
+          tags: ghcr.io/jameskoh2395/ecommerce-product-page:latest
